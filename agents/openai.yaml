@@ -1,0 +1,4 @@
+interface:
+  display_name: "会話を経て文書を仕上げる"
+  short_description: "対話原案と読者アバターの会話から、理解の間を持つ文書を仕上げる"
+  default_prompt: "$refine-through-dialogue を使って、原案を対話で整え、読者役が質問を挟む会話ログから、わかりやすい文書に仕上げてください。"
